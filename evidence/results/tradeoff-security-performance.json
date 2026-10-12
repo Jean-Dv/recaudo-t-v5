@@ -1,0 +1,19 @@
+{
+  "cost_acceptable_for_v5": true,
+  "p95_increase_ms": 0.537069,
+  "p95_increase_pct": 117.54706202929763,
+  "sample_size_per_variant": 1000,
+  "tradeoff": "security_vs_performance",
+  "with_challenge_response": {
+    "accepted": 1000,
+    "mean_latency_ms": 0.849629279,
+    "p95_latency_ms": 0.993966,
+    "validations": 1000
+  },
+  "without_authentication": {
+    "accepted": 1000,
+    "mean_latency_ms": 0.39810243700000003,
+    "p95_latency_ms": 0.456897,
+    "validations": 1000
+  }
+}

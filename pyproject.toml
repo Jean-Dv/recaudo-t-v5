@@ -1,0 +1,10 @@
+[project]
+name = "recaudot-practica"
+version = "0.1.0"
+description = "Práctica de atributos de calidad para RECAUDO-T"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.unittest]
+start-directory = "tests"
+

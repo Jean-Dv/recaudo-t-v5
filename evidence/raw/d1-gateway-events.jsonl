@@ -1,0 +1,1 @@
+{"event": "failover", "failover_ms": 0.979203, "failure": "<urlopen error [Errno 111] Connection refused>", "new_active": "standby", "timestamp_ns": 1791839220799586404}

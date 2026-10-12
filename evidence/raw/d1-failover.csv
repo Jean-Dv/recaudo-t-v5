@@ -1,0 +1,401 @@
+variant,request,operation_id,success,latency_ms,node,gateway_switch_ms,recovery_ms,error
+primary_only,1,3e3b155f7476430fa02a26b8b630eb2d,True,1.73966,primary,0.0,0.0,
+primary_only,2,f748c369021c4c1fbf39ce87f33a85fa,True,1.013742,primary,0.0,0.0,
+primary_only,3,f1cd708bb56b41f8bbdbb29f4213e616,True,0.94733,primary,0.0,0.0,
+primary_only,4,9f33ea4de879498d84373f2b4d3c5626,True,0.918535,primary,0.0,0.0,
+primary_only,5,31a4a6403ab8400abe1136e3cfde831c,True,0.900184,primary,0.0,0.0,
+primary_only,6,9b9f0fee68a04fb8a18f36f8b4c4ec05,True,0.892165,primary,0.0,0.0,
+primary_only,7,274290ddcf6b457d9c7111ac17cbb42a,True,0.906237,primary,0.0,0.0,
+primary_only,8,cf79d0d0645842fbbdcd47929d793d92,True,0.893793,primary,0.0,0.0,
+primary_only,9,0e3b9d183de0425e90308e9d851c9b58,True,0.894036,primary,0.0,0.0,
+primary_only,10,400bcc8e92304f6d86c560c98fe6b78f,True,1.107092,primary,0.0,0.0,
+primary_only,11,89d5c98168fd428fb06151abcac6bec7,True,0.868847,primary,0.0,0.0,
+primary_only,12,8ef963c4b3444a099e39dd402f80f27c,True,0.885988,primary,0.0,0.0,
+primary_only,13,164cfc998788405a968e49ffa3ee9e77,True,0.908573,primary,0.0,0.0,
+primary_only,14,3d7fa99c56bc43a986c829cb02115cfd,True,0.905184,primary,0.0,0.0,
+primary_only,15,949f22eae38f4cbb8c8234d45de94c8e,True,0.90621,primary,0.0,0.0,
+primary_only,16,47604dd4edbb411597fb2412534c984b,True,0.92642,primary,0.0,0.0,
+primary_only,17,beb4a1a8b5c946c0a11007d942d785cc,True,0.857237,primary,0.0,0.0,
+primary_only,18,a975886e697042ada8c0964880e238a9,True,0.873141,primary,0.0,0.0,
+primary_only,19,81a31b3575fd4b2a9eb1fbfde7a9ded6,True,0.882125,primary,0.0,0.0,
+primary_only,20,81edc18598344080b4056c7fbdcf3532,True,0.883545,primary,0.0,0.0,
+primary_only,21,b2db8bbce05d4a9ab7cbf6138bef8b53,True,0.902969,primary,0.0,0.0,
+primary_only,22,6f170dafd44b487898c1aa6f0d79dd6d,True,0.881344,primary,0.0,0.0,
+primary_only,23,145e927a555445fd8f9cc9cd43eb5507,True,0.905641,primary,0.0,0.0,
+primary_only,24,625364894ce74d1d943c44a29b004cef,True,0.908953,primary,0.0,0.0,
+primary_only,25,5333f58f87694931850c981e506a6e51,True,0.872324,primary,0.0,0.0,
+primary_only,26,7ab68279c7e24bf398fd872d26daf903,True,0.901052,primary,0.0,0.0,
+primary_only,27,3252fdd520e641f49665d66ef85612eb,True,0.880383,primary,0.0,0.0,
+primary_only,28,71cf30547524480189ee07deb13d8f83,True,0.886945,primary,0.0,0.0,
+primary_only,29,ffaa8bb89c45461e94dd3257ffbd819a,True,0.906925,primary,0.0,0.0,
+primary_only,30,0b8e7edfcc4d4a07b777329164118ff8,True,0.877907,primary,0.0,0.0,
+primary_only,31,eae1688161214a63a2340b7ad359dd9e,True,0.881585,primary,0.0,0.0,
+primary_only,32,5b89795cd2224bc79c288040c7d9e529,True,0.901097,primary,0.0,0.0,
+primary_only,33,4485e9ee2fd646018d3c755b09766364,True,1.057634,primary,0.0,0.0,
+primary_only,34,38bb19f1c149430d98d378abfbfa20d9,True,0.893667,primary,0.0,0.0,
+primary_only,35,8f60eb4d220e4496a8566d6a77cbf6dd,True,0.892752,primary,0.0,0.0,
+primary_only,36,82b164d1bcb54ee59e03cf9e67e84779,True,0.891496,primary,0.0,0.0,
+primary_only,37,b18fc4fee0b14e4e81a9b2035540ccbe,True,0.94644,primary,0.0,0.0,
+primary_only,38,6f7d20434e4146f3b4084a84eec73ab5,True,0.912821,primary,0.0,0.0,
+primary_only,39,afcea654a6a84cb88662816625f198ff,True,0.894619,primary,0.0,0.0,
+primary_only,40,4ae4b89d284a40cfabd57f3b1f6e1e74,True,0.906011,primary,0.0,0.0,
+primary_only,41,3dbac4fe81f748acb32ccf80ccbce3fa,True,0.889689,primary,0.0,0.0,
+primary_only,42,0f85c8b8f04b4aab8bc5c383c7d6f19c,True,0.890289,primary,0.0,0.0,
+primary_only,43,a823c93fdaf34c3f8edce6695afee418,True,0.90971,primary,0.0,0.0,
+primary_only,44,d06c4ad591ea467eb3b72fc197be2ce8,True,0.886062,primary,0.0,0.0,
+primary_only,45,3be7fc0846324df8a2e03906d3f9827d,True,0.884211,primary,0.0,0.0,
+primary_only,46,da22001d054448009dde76af634c938b,True,0.909798,primary,0.0,0.0,
+primary_only,47,3e4e7bb83f604b17bca6a4ee52763866,True,0.89552,primary,0.0,0.0,
+primary_only,48,278acf6ec77b42469c2f16d354cfaa4a,True,0.879043,primary,0.0,0.0,
+primary_only,49,ee3572793f374ca9ab57d0a20f74bd9d,True,0.904956,primary,0.0,0.0,
+primary_only,50,6b90c06089954d60b20700347f6ad995,True,0.89274,primary,0.0,0.0,
+primary_only,51,a34af54792e84588a0dbc8a0f64e167f,False,3.299252,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,52,744d5d97da5d40c6aa13c0d675b81926,False,0.092348,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,53,eb4d93d46d33430cad29c9a4e6c18d53,False,0.081237,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,54,6488c51c37574e0cb56a284020418e39,False,0.075027,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,55,78c26a00d9ae4a68ab1736b44bb229c4,False,0.073927,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,56,c3b380104af74c5d919d979c1c6c08ec,False,0.073965,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,57,b0cbcf3c1e994628ab839d8a672e83b1,False,0.081016,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,58,9c2d90e698694a6b87d3ed257f3d214d,False,0.077251,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,59,5d70258b38e64a119141b2015be5598d,False,0.073311,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,60,6e3eba7e4a0c40cfb8f8d327e981a5fa,False,0.073721,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,61,7425b4f745954f1ab1c7e8fbcd73ec0d,False,0.073377,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,62,ffedd9405024463392085fae6718249d,False,0.073789,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,63,0fef693bac2448efbf45e816af08b8ee,False,0.073768,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,64,53616fc013d3413bbd8fa3052060e877,False,0.072994,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,65,f6b8cb28efb24142ae584724fdd3bec2,False,0.071936,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,66,f36e0b3678804be09252bafff10c46b7,False,0.072266,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,67,a8c5492a51d44ee4b11db9013f49a75a,False,0.073693,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,68,cffb3c37f44d419faa780bbf099994b1,False,0.073294,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,69,f45f0ed1f8dc4742b0d0b690186d8f6e,False,0.077457,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,70,42c9fa8401114528904598eb762fc962,False,0.07291,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,71,380d0a491779426f853d58ae7a98c8c1,False,0.073346,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,72,bdbcc16461fc4879b21ebe59ba81c549,False,0.07246,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,73,027b719e6a43483ba44c687304cfd013,False,0.073173,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,74,07eafa744af44b209e833271263fa3bd,False,0.073313,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,75,140cda7aacf24d8292f5a71ef2b5ab62,False,0.072258,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,76,ba0718fb362b4e5a96049f1da5a6fc60,False,0.074418,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,77,4c9580fe54fc45218ce903727e7ca5d7,False,0.07303,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,78,26b417be9dbd4ecfbb30d731bb31229d,False,0.073023,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,79,8a8150916e4b4bf183b1f97bc99937a6,False,0.071707,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,80,035fd4f7acde4c0e9b91790cebc2be42,False,0.073371,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,81,7c969c48712d4bcf8fd58112e4c39cd8,False,0.077045,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,82,6ad9d9fd30484c87a418932aec115077,False,0.077184,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,83,9d5562c643c6419c8fbeafe667f27e2c,False,0.073396,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,84,6f8e1cc3a83f459ea6bee999fa332c29,False,0.071699,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,85,1b7cec4ab3cb43809f33098a7b64945e,False,0.072936,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,86,65b519bd7dbd446fad43390bc28b547a,False,0.071971,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,87,383ffffd06ab4a85a8c1490a2e6b4d6c,False,0.072902,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,88,c6c6d95e033b46cf8dced75a16653168,False,0.071831,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,89,ea3465429a264f50bdb1306049e81970,False,0.072827,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,90,5a6448e1ee054e0c88361efdf0278901,False,0.071287,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,91,5a64b53d769649c39acc4a4b3041a75a,False,0.071303,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,92,803644e5321d4198896f09692f30298c,False,0.07322,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,93,9713e4c2ac134972a0287b6fb2b8ef57,False,0.071209,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,94,9f21269fdf9244d183de6e9a9dde6f29,False,0.0825,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,95,e4d5ca24ba494bccaa259e8d7a22c0ed,False,0.081744,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,96,e6b512585c904338acc6358c6ee58074,False,0.074597,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,97,8cff439941b34c22a2f729aed98fd1aa,False,0.073564,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,98,d1fd5c1bfe43441c9e917b862c62ed7b,False,0.073475,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,99,c16eb375527e47cb92fdd7bf7469dd28,False,0.07363,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,100,17125516f06b4092aeaacba1c8ca171d,False,0.075115,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,101,6d86c848793145bf8acf16514950f95a,False,0.075194,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,102,dbab1fd1bf944013a01888815468a6d4,False,0.073695,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,103,21df6d4520ca4bf1ae645304804c5ec1,False,0.074378,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,104,2ab432004bcd4035b67e4c334d269308,False,0.074542,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,105,f685620a05c24d9c9adbc9150e40d620,False,0.07842,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,106,d1e81c2df7c24022af9c3407782aba5a,False,0.074958,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,107,42d49f9b5f9e4b16ba50f48ffda57580,False,0.074449,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,108,05001d35c0ae456ab50f772af3cd574e,False,0.074059,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,109,fff9d8fe1acd40b6b31131372ab390ae,False,0.072868,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,110,7dbf705d95bb46888d792c5e1022b40e,False,0.074035,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,111,62bab26923cb4557a73256a41c6cfbd6,False,0.07321,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,112,23b8d75c09a641c3a426e0f8377e5d41,False,0.073497,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,113,1418e25588e64ef2b1a026060c84d0cb,False,0.072581,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,114,9a83e9b4b8704f4e8e9b091117005683,False,0.072287,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,115,696f6e084be8428c85bc01dd113f6e1c,False,0.073964,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,116,a0e1da94ef084f23b95915cb3fbcf0f6,False,0.071683,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,117,6284690635354c89b9fd6572c9a3957b,False,0.077631,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,118,84057f5d52dd41b8b9e8d2b3cb0324f6,False,0.085792,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,119,22996e2a40e241779574085a25ad30d7,False,0.081711,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,120,75111156465b47c59c032b875c6a573b,False,0.077666,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,121,027ea91a8b21456eacbd0b3827412ae4,False,0.078726,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,122,da5b751482f54fdf84e18955203ea79f,False,0.077199,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,123,ffba2a24857749dea0e7bdfc4506ebb1,False,0.074228,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,124,12512b68acf94909a611df7189528419,False,0.073917,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,125,9089ff2e45be478f929cdf08143c80b1,False,0.073652,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,126,36e68cd51fe145a68217b434d001c373,False,0.074394,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,127,017a498e89d341daa9e5f0063a3b1cba,False,0.075553,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,128,60174b11943245498ec2ab78faf6278a,False,0.07455,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,129,d1d087aaafee4bf3aff959beadd7341a,False,0.078676,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,130,eab90780d5294127b1d1c803b29c9005,False,0.07608,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,131,fdebcfaa940c46d6939fcd7eef8c11f9,False,0.073012,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,132,eec44a68c4a6466d9ecac4a60c190ef4,False,0.073287,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,133,f174255f21c747e2917604c79ec90d5b,False,0.071888,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,134,a60a243abf9242ddb9cb90c23d0fa17b,False,0.072707,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,135,0e43a419fbbb4df2831eae75e905b3cd,False,0.071824,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,136,645ac6576530463ebb17b73912c5400b,False,0.072822,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,137,161fe3aedc3d442398feec38b83b180e,False,0.072938,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,138,b1224ab817da447ca16d493951a29d7d,False,0.072322,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,139,6bc8ac5f86a843518522d59c2143977c,False,0.072583,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,140,4e9b5e11637a4f65b06389e340782827,False,0.073514,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,141,5ec31374592a47f2822d4e984c690e73,False,0.078025,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,142,6623d18112d54f1587d5ed046d9a64f7,False,0.075875,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,143,e6e8c9929acf40d9a8bbd0161cc881b8,False,0.078466,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,144,5706ab0134ce492a895cddb7ad16d3c8,False,0.074762,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,145,d23b7b87f2d04f6fafda6a42397d92d7,False,0.073489,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,146,194ff1b536b74e64924d3ace2ad964f3,False,0.071459,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,147,77ba652e70c147a4a1a75c3ba24e363d,False,0.072792,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,148,1905842c1d6c4398a9e49d4fb4ef6503,False,0.072308,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,149,d78643b70a154c27858a7eff583ff01a,False,0.072677,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,150,c71945a1d1234edd8715fdaff68ad243,False,0.072462,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,151,8fd96971be984379bace183d3a1cdc45,False,0.073301,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,152,4509feab237d4ba494cc0180ff3cd70e,False,0.072564,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,153,2f96c2dd079647b19a3cc1e30977effd,False,0.077023,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,154,d1549901594f4231a3fb2fe77deceb4c,False,0.077026,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,155,36e891ee3d224b16b9a68aa494e8a8bf,False,0.074585,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,156,eebee3f9c11f447fb2ffd22c3db426a5,False,0.072896,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,157,463bdd772a814644a5a7bc32561321a7,False,0.072909,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,158,d8537a9059c74f5aae4fbdb6dcb9bdcf,False,0.071482,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,159,69941d6a44fb4ba29f4c783ab9e6c1e5,False,0.071985,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,160,b00144297aa64728bc5c9fb74d3270f5,False,0.072114,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,161,fa79cb1eb46b402492c016525c5ff7f6,False,0.071919,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,162,5a23da10a60649e2b82fa04b616d81f9,False,0.072138,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,163,530ebb9dac69425aae9f27e9b8ddb98e,False,0.074433,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,164,7ec83f6b359f45ce842a09a509d0a91b,False,0.075104,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,165,63f0dc70982948249fcd549d38e5eb46,False,0.082251,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,166,eb2f8dc0d99d45b7a042ef6a475268c7,False,0.075047,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,167,513ae73e0b844fc3b1e9c08e4305fe2e,False,0.07364,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,168,7f81bbd360594d388b0f547fd2f39626,False,0.072817,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,169,727c7e923ca8417881b84cedf43b4049,False,0.073433,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,170,59803e0226734242a58805c30ae4276d,False,0.072891,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,171,7e2a7c4d998d4b6f828ffa94aba6df7e,False,0.07252,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,172,728a5435d97c42eca6fbbfa32e469c93,False,0.07197,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,173,307a8d23a0234f7d95a4482a849661c9,False,0.073686,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,174,d3dd07ce879a4ffbb015b5658d519608,False,0.07233,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,175,f94674fa23fe4816aeca8bd9facbc892,False,0.072433,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,176,3186b8b0788f44a9be7100438e65db51,False,0.072912,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,177,a082984a5604484b9ddb09e58b40f3f8,False,0.07259,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,178,5f07c25746e844c7864cfb4d7c970c0c,False,0.077114,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,179,6ba2f705656d4cc8a9591b570511111e,False,0.074548,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,180,38c5b74d30044e5482ebd4f302722fe9,False,0.072561,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,181,4ff9c58aca6e4ff4afc28625eafc4388,False,0.072511,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,182,99469dbf015c4a188b8aa967ae0f63a5,False,0.078951,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,183,decadb2713d647f7b0ab8167865d1efd,False,0.073254,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,184,bb021f8736c64ac395752edacd74a43d,False,0.072787,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,185,9a0d273333e447d2a6301e5282bac82f,False,0.073423,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,186,529cf16cb2be494a9d572e44d8fc9cfa,False,0.072614,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,187,33a074b23f8a4e0e939b1e68038f7d96,False,0.072981,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,188,ff460557adee4672ae64b4e43580f4dd,False,0.071627,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,189,4e78c027b92b4f0ca8006375970de8cc,False,0.0725,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,190,4523df27d6984fa789ff91ca53bf87c2,False,0.08788,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,191,8b15a33b7d524cb59114339ef1b78a5c,False,0.073997,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,192,cb8f91a5e67542abbdc124eb0ea2ad87,False,0.073638,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,193,bf8199be75d84d64b9d590cd421e1789,False,0.072903,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,194,23f31cfa8c724de5bc9355fb67bbf79a,False,0.071801,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,195,6e7418d5c3294fb99c93a7ea7d81d9fe,False,0.072788,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,196,508633c4619c4e02b49d4fd8cdda3b91,False,0.072518,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,197,da885d27fbd3460893971f293de2809a,False,0.074123,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,198,0c529fe9cb494e17a95cf06e24632d3d,False,0.073473,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,199,4b9b8bca4ac04b778e107c3bfb7de987,False,0.074874,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+primary_only,200,bce5d4de171640caadd914ce7029ce66,False,0.073509,unavailable,0.0,0.0,<urlopen error [Errno 111] Connection refused>
+passive_failover,1,779db4642a974d6a8c6363b72fdd8aa2,True,7.443201,primary,0.0,0.0,
+passive_failover,2,6c2e3185b7764796bbd15bf2c42ec513,True,1.701718,primary,0.0,0.0,
+passive_failover,3,f46bb8443eb9476caa99583519569274,True,1.586634,primary,0.0,0.0,
+passive_failover,4,b8a61248a3434c99bbc76340fbef715d,True,1.511336,primary,0.0,0.0,
+passive_failover,5,e563bdf9c41a45c0a0e71d09aecf5696,True,1.535805,primary,0.0,0.0,
+passive_failover,6,f5ab951f63854c3da6ba21d8c14e7647,True,1.509353,primary,0.0,0.0,
+passive_failover,7,9365c5e0fda54fbaa16a1876f042256e,True,1.514371,primary,0.0,0.0,
+passive_failover,8,36c38b514c9a4d68bb8f036a89965f33,True,1.47052,primary,0.0,0.0,
+passive_failover,9,955773039ca24e5cbc9f79754c29c690,True,1.493094,primary,0.0,0.0,
+passive_failover,10,66ba182433844961b669627877299547,True,1.453508,primary,0.0,0.0,
+passive_failover,11,e5ff85d3cbae437585926e69e63cfa48,True,1.581573,primary,0.0,0.0,
+passive_failover,12,0c14a623c2a7425c81a8d5b462c61a9a,True,1.51387,primary,0.0,0.0,
+passive_failover,13,37f6dcf6db65498c987f25dd99921590,True,1.490664,primary,0.0,0.0,
+passive_failover,14,a9d35009dc574ba4938c5b31c4eeaa20,True,1.494451,primary,0.0,0.0,
+passive_failover,15,b228111988fa4bc6b0418d4f694fc2c7,True,1.493416,primary,0.0,0.0,
+passive_failover,16,406545717a7945758275965005671abf,True,1.457259,primary,0.0,0.0,
+passive_failover,17,07eee3becbc6470282a185627910271b,True,1.492851,primary,0.0,0.0,
+passive_failover,18,31dcca963d364e5da91c40ae38e06db5,True,1.480685,primary,0.0,0.0,
+passive_failover,19,a0fa18b8b06043508041ece511eadd3f,True,1.479721,primary,0.0,0.0,
+passive_failover,20,fc37a9c4b464410ca5b94923764bb42d,True,1.50472,primary,0.0,0.0,
+passive_failover,21,d872b1d6ee4b40d0a30cffe390c75c87,True,1.446146,primary,0.0,0.0,
+passive_failover,22,cb40876d07374080a99ecd293adcbc7a,True,1.474419,primary,0.0,0.0,
+passive_failover,23,e36bb7f0ffe94cd29ca2461b29904c3a,True,1.580494,primary,0.0,0.0,
+passive_failover,24,c020ae738aec4ea08e59036926a77161,True,1.473072,primary,0.0,0.0,
+passive_failover,25,70d61bb8ddcb450f83f77dad1491e686,True,1.536405,primary,0.0,0.0,
+passive_failover,26,8bfac155551140e3a1a31287e5d7b268,True,1.487565,primary,0.0,0.0,
+passive_failover,27,be83b55137034ec39d300ed6517a19ab,True,1.528185,primary,0.0,0.0,
+passive_failover,28,b2d9a0567e2142da9ef123abe33a3ed9,True,1.436761,primary,0.0,0.0,
+passive_failover,29,2627e4814504441e9dc644fd69a7c98a,True,1.46658,primary,0.0,0.0,
+passive_failover,30,6a939904a6094d11b3d29a49b1275a41,True,1.499669,primary,0.0,0.0,
+passive_failover,31,d02efa2cae9f42bc9f5325e57c6ad007,True,1.569075,primary,0.0,0.0,
+passive_failover,32,c015176ab5884152b498be6c8f94cde8,True,1.468953,primary,0.0,0.0,
+passive_failover,33,be40e3b0357b466281950f40aef23411,True,1.471739,primary,0.0,0.0,
+passive_failover,34,fcc1ab6078114d4a808c6d7d287b313e,True,1.41999,primary,0.0,0.0,
+passive_failover,35,a2742485a16d412c93e5dabefda8f3c8,True,1.506929,primary,0.0,0.0,
+passive_failover,36,0fa88a3859bf48b6bc41f8d6b437a3af,True,1.472368,primary,0.0,0.0,
+passive_failover,37,59a67621fdb04d649349eda8c7920b55,True,1.425184,primary,0.0,0.0,
+passive_failover,38,d9c3bb0893634c6784d478fb9db27f64,True,1.487793,primary,0.0,0.0,
+passive_failover,39,977d353ceea84941a0abc62d60f7d58b,True,1.448783,primary,0.0,0.0,
+passive_failover,40,ae99edc0bdb64197a0fdf7f2ed19537b,True,1.510681,primary,0.0,0.0,
+passive_failover,41,0ea74d20c35f4c298c8cf7b1a67fb104,True,1.489085,primary,0.0,0.0,
+passive_failover,42,9b52153edee6409e8401f76c2c120d84,True,1.445434,primary,0.0,0.0,
+passive_failover,43,644c47af559e434cbd66366a51f06eec,True,1.491493,primary,0.0,0.0,
+passive_failover,44,cc421b381c1b45ada91e9a5fd93eb2e3,True,1.461248,primary,0.0,0.0,
+passive_failover,45,876b654c761846e5a05ac173f36894a6,True,1.499284,primary,0.0,0.0,
+passive_failover,46,6e6b68a1a1974eb1b19d3907f03af67f,True,1.450459,primary,0.0,0.0,
+passive_failover,47,45f94b128b8f41e8ba233c660713bb0c,True,1.472961,primary,0.0,0.0,
+passive_failover,48,9732c2b2e368442e9bf06b3d953333f1,True,1.455331,primary,0.0,0.0,
+passive_failover,49,29fa83bd36b94b8b8d3fa260b81cc123,True,1.462694,primary,0.0,0.0,
+passive_failover,50,c9df0b9d4edb4a2f87c74dadafd15b23,True,1.485857,primary,0.0,0.0,
+passive_failover,51,01ced0d6957d458796af8f4d2a704b56,True,5.416007,standby,0.979203,4.706679,
+passive_failover,52,6a45757876d74e38834af75b223549ef,True,1.783212,standby,0.0,0.0,
+passive_failover,53,7513b68c060a4168a818191809bcb4b9,True,1.593178,standby,0.0,0.0,
+passive_failover,54,415ca98b67554731848ed4a3f6a6df99,True,1.55411,standby,0.0,0.0,
+passive_failover,55,39490c11c8f54d708689bad34fbf2eee,True,1.588612,standby,0.0,0.0,
+passive_failover,56,f836b98505e844b590c12088e99d7d6b,True,1.452657,standby,0.0,0.0,
+passive_failover,57,4a5de3bb2ea844d4accfc8e75d5e5ad7,True,1.492408,standby,0.0,0.0,
+passive_failover,58,59491accfedf411cb0c2491653ad576c,True,1.515171,standby,0.0,0.0,
+passive_failover,59,5988c7de655d481cb184e487f81892bd,True,1.477773,standby,0.0,0.0,
+passive_failover,60,546c1ba3599f4cfcb074034f80d035f2,True,1.528461,standby,0.0,0.0,
+passive_failover,61,0c291f72ae584dde8c35a1416ca5fb3f,True,1.4762,standby,0.0,0.0,
+passive_failover,62,9a872a192cc647c0acda3ba261fbef69,True,1.450656,standby,0.0,0.0,
+passive_failover,63,7fd879a8bdd74365879634695538f073,True,1.548823,standby,0.0,0.0,
+passive_failover,64,3cacefe2315547d7b82ad8dc4eca8ff9,True,1.531423,standby,0.0,0.0,
+passive_failover,65,2387ec086d7e45c48d4cdaedfc69700f,True,1.596915,standby,0.0,0.0,
+passive_failover,66,dc83732958474ab282ce62c8b9b1a341,True,1.648086,standby,0.0,0.0,
+passive_failover,67,33e7bc909e484397b2ad95f1f725c5fd,True,1.571895,standby,0.0,0.0,
+passive_failover,68,9755f8d4b37d4875b48a4dd8fdd5fd4f,True,1.559735,standby,0.0,0.0,
+passive_failover,69,df17d2eab3d5445c84356c07fb5b812e,True,1.582805,standby,0.0,0.0,
+passive_failover,70,8143f4f675724675844012e7687128b6,True,1.610182,standby,0.0,0.0,
+passive_failover,71,918ace11b9a546c08d50325569807b96,True,1.572895,standby,0.0,0.0,
+passive_failover,72,35a4b3893ea54009a2268edf3653dc74,True,1.763223,standby,0.0,0.0,
+passive_failover,73,66b8bf2c5ab9497fb8284383452a53a7,True,1.669056,standby,0.0,0.0,
+passive_failover,74,0eb68958b6cf48d193043a1eb66b4f3e,True,1.580737,standby,0.0,0.0,
+passive_failover,75,667f7b960d3b4c23bc228e8f87b34fc0,True,1.571899,standby,0.0,0.0,
+passive_failover,76,b1f296daea914357ad44a152bdd60089,True,1.53612,standby,0.0,0.0,
+passive_failover,77,60ed1198832b49a192e6d26fd8b54bde,True,1.558583,standby,0.0,0.0,
+passive_failover,78,c7c4ad43730e4e4dba9c238e991b952f,True,1.547287,standby,0.0,0.0,
+passive_failover,79,0c4a2bdc1aae48d49022d877776475e7,True,1.643839,standby,0.0,0.0,
+passive_failover,80,ff12d02e2d81499cada8e9d6ce2a19cb,True,1.530995,standby,0.0,0.0,
+passive_failover,81,8316cae6aa164fa3aaa57e258b948787,True,1.53357,standby,0.0,0.0,
+passive_failover,82,b1bc50b833a541d9807b7b4e09deea44,True,1.491217,standby,0.0,0.0,
+passive_failover,83,8618f00e8ec04a298b9cdc74556ce49b,True,1.621605,standby,0.0,0.0,
+passive_failover,84,e98f3dc5996649bf9dd284f79f53c643,True,1.498805,standby,0.0,0.0,
+passive_failover,85,4df4f84b22974266a05936a0b190214e,True,1.521102,standby,0.0,0.0,
+passive_failover,86,c86f32087894481fab2d35578348084b,True,1.542738,standby,0.0,0.0,
+passive_failover,87,c61c48ecba4d4bb285a055afa6db0d35,True,1.516621,standby,0.0,0.0,
+passive_failover,88,aa1bfc5164da4433bb765a6e77e1dc63,True,1.539176,standby,0.0,0.0,
+passive_failover,89,b550c61ffba74d84afe749004a4b4b66,True,1.484665,standby,0.0,0.0,
+passive_failover,90,d6c9a8b3388f4b4f8d35d45e289cbf82,True,1.514001,standby,0.0,0.0,
+passive_failover,91,51b80bfd93b84ceeabbc742fcdc8460f,True,1.532183,standby,0.0,0.0,
+passive_failover,92,20e999a03d9c4dc7b9fa44f096c5c792,True,1.562751,standby,0.0,0.0,
+passive_failover,93,a62863c876e842baa4d71878097437c6,True,1.536071,standby,0.0,0.0,
+passive_failover,94,6d4d550f31e84974a17068ff2a05a6b0,True,1.497957,standby,0.0,0.0,
+passive_failover,95,ef6a64784919450db8d92a1e6cb3b571,True,1.50218,standby,0.0,0.0,
+passive_failover,96,face48bf230244d1afce5f1c77e71dd8,True,1.546771,standby,0.0,0.0,
+passive_failover,97,d6b0d99cc5a74244bff3f72805e48ee4,True,1.503023,standby,0.0,0.0,
+passive_failover,98,3d5b71546d3e494cbb2b4cdcac89c68f,True,1.536996,standby,0.0,0.0,
+passive_failover,99,edf7c9a613c54d6f928a07d692151b21,True,1.521905,standby,0.0,0.0,
+passive_failover,100,b3ffb7466bc54f87986e359b78ea3205,True,1.526266,standby,0.0,0.0,
+passive_failover,101,fa8cf1272ddb4ee7b764f84341350219,True,1.473398,standby,0.0,0.0,
+passive_failover,102,b3a1a109707d4bb2a35f21ac952e5de4,True,1.536455,standby,0.0,0.0,
+passive_failover,103,42bfa77652d9484aa5669fa86e169804,True,1.520297,standby,0.0,0.0,
+passive_failover,104,206d6d5ef6914b78bc9c4cd10f34fdbc,True,1.529045,standby,0.0,0.0,
+passive_failover,105,894fdcfb05394157826855c9c165c8bd,True,1.577766,standby,0.0,0.0,
+passive_failover,106,f4278548c4894a63bc7bf16f1b1879cc,True,1.537963,standby,0.0,0.0,
+passive_failover,107,4d39aad8485a4955b88f8d5e8319f817,True,1.599917,standby,0.0,0.0,
+passive_failover,108,9d936b7eb75047a596177fde3bff8aa4,True,1.509518,standby,0.0,0.0,
+passive_failover,109,1953425d345f4959a945e80d4d154bb0,True,1.526461,standby,0.0,0.0,
+passive_failover,110,2afad6f4f06d494ba256aab7fa4a2a19,True,1.589525,standby,0.0,0.0,
+passive_failover,111,e31eb2361cfd4ab7bebecdf39e6043ca,True,1.559493,standby,0.0,0.0,
+passive_failover,112,bfcc313c66a6456482074cc753b5fb8e,True,1.543033,standby,0.0,0.0,
+passive_failover,113,9861393b5f2847609d7a73b790824737,True,1.532332,standby,0.0,0.0,
+passive_failover,114,bc82f55140ff42dabb4579ccf3a4ec28,True,1.51852,standby,0.0,0.0,
+passive_failover,115,5d3d54ff6e6648ec89adb8804f2d119a,True,1.516677,standby,0.0,0.0,
+passive_failover,116,7c01aad5cce6485f87153cc51fb5b5dd,True,1.49274,standby,0.0,0.0,
+passive_failover,117,f34b83bf1df04e12a7f412814a380668,True,1.52126,standby,0.0,0.0,
+passive_failover,118,b100419646214c43991e9cbddb09401e,True,1.533841,standby,0.0,0.0,
+passive_failover,119,0721604b93a2439da1ad57a32d180c5c,True,1.547598,standby,0.0,0.0,
+passive_failover,120,81a83fb092034112b76c83f5e1711c8a,True,1.690445,standby,0.0,0.0,
+passive_failover,121,27ea7c1ee6704f6ca811e9544b623dc3,True,1.583734,standby,0.0,0.0,
+passive_failover,122,ba7dfe20159042d0bf187eb33f27db67,True,1.511151,standby,0.0,0.0,
+passive_failover,123,d0ac672a237f4bf2a45ff00bde8e57d9,True,1.492343,standby,0.0,0.0,
+passive_failover,124,102cb48fa331408ea4bb827b11f34d63,True,1.462966,standby,0.0,0.0,
+passive_failover,125,d010f03717c940a29e3aa030068e74f4,True,1.484614,standby,0.0,0.0,
+passive_failover,126,85ddbdbf9397475ea5ba5cd575738fce,True,1.441716,standby,0.0,0.0,
+passive_failover,127,a81fb076b04347ffbeefafd611be3601,True,1.454679,standby,0.0,0.0,
+passive_failover,128,9071db228aad46f099833625096bee0d,True,1.474828,standby,0.0,0.0,
+passive_failover,129,2c86b06be13745018850c049ebdd8893,True,1.480055,standby,0.0,0.0,
+passive_failover,130,4437ab926ea846b09d770f09e5f149c7,True,1.572026,standby,0.0,0.0,
+passive_failover,131,7c3da9482367411f8bfecd6a057ce5d8,True,1.553079,standby,0.0,0.0,
+passive_failover,132,ba53ff7196584f0898b52e9c4fddc277,True,1.530605,standby,0.0,0.0,
+passive_failover,133,f171fcbf4dd6437a91b763834d0f2477,True,1.541193,standby,0.0,0.0,
+passive_failover,134,200d5d34b26c47c78e79b3e1759a26bf,True,1.619427,standby,0.0,0.0,
+passive_failover,135,ad1b72d29747413491c1a622743e5a21,True,1.547993,standby,0.0,0.0,
+passive_failover,136,7dcebc1b9b0943b29e904717ea1ddb21,True,1.540878,standby,0.0,0.0,
+passive_failover,137,c2d25f93fba74e67af7e1936962ce7c7,True,1.541277,standby,0.0,0.0,
+passive_failover,138,629451bc0dc2412f8325bf0091ccf6b6,True,1.538204,standby,0.0,0.0,
+passive_failover,139,d451ae56c6a44a368df999c7147cb5cc,True,1.606858,standby,0.0,0.0,
+passive_failover,140,02e5d9ad64264f178a2efb1a6fa7031b,True,1.618632,standby,0.0,0.0,
+passive_failover,141,6489a08a02b3423eb7596a39248ada30,True,1.553014,standby,0.0,0.0,
+passive_failover,142,effaa6dc17f24cada13dd829a2602c10,True,1.552101,standby,0.0,0.0,
+passive_failover,143,58e4a03121c64593b23bc9381663e636,True,1.554399,standby,0.0,0.0,
+passive_failover,144,1f911c9464fd467ca4083f860611c3d4,True,1.57282,standby,0.0,0.0,
+passive_failover,145,d853d5a89c5745e6bc1c3cdfd4662cd4,True,1.548859,standby,0.0,0.0,
+passive_failover,146,cb6a64915387470ba0ff3e7acf635dfb,True,1.514395,standby,0.0,0.0,
+passive_failover,147,495ea8d5c4e64cd6936fb55d2ac743aa,True,1.524371,standby,0.0,0.0,
+passive_failover,148,94a8f44c90024075a2a9efb07dc5111d,True,1.562998,standby,0.0,0.0,
+passive_failover,149,50a1a833c949411480eaa6cd79aae177,True,1.570837,standby,0.0,0.0,
+passive_failover,150,a4eee819904a47fea8befa7016b19288,True,1.580574,standby,0.0,0.0,
+passive_failover,151,cbfe8cc675b34f568e321bb1cc0daa54,True,1.560905,standby,0.0,0.0,
+passive_failover,152,3ed9c9f267fe4d9da1db53657491133e,True,1.495304,standby,0.0,0.0,
+passive_failover,153,f6ee9ab959724c4bbe2c538984e122a0,True,1.533065,standby,0.0,0.0,
+passive_failover,154,20324681d749452b9385ecb7c77ae4c0,True,1.565438,standby,0.0,0.0,
+passive_failover,155,46d640c3be964e21b91c35daedcd15d3,True,1.877797,standby,0.0,0.0,
+passive_failover,156,2b56909a58c7467f809a5e57b4c6ea30,True,2.054314,standby,0.0,0.0,
+passive_failover,157,f354bf122f4140fe8d1ce2b9bcd0320e,True,1.979933,standby,0.0,0.0,
+passive_failover,158,6e56f6ad13fd4c96a0748b08aa3d6d97,True,1.727981,standby,0.0,0.0,
+passive_failover,159,43a4baa8baa84972945aca4f3f7c4029,True,1.615169,standby,0.0,0.0,
+passive_failover,160,577c740d3d234525a5a51f99abcc30c5,True,1.658749,standby,0.0,0.0,
+passive_failover,161,9bb1d1afe0b04c868a5da016add16109,True,1.983251,standby,0.0,0.0,
+passive_failover,162,bf634cd8e0a645c7bea7060df510187e,True,1.838841,standby,0.0,0.0,
+passive_failover,163,dd7d52acb051443f82ae20926f03a475,True,1.587589,standby,0.0,0.0,
+passive_failover,164,1bfce063f6404d35ba84829240bc53d9,True,1.604617,standby,0.0,0.0,
+passive_failover,165,d4b3c762b6a3482b959968d6fea6fbd5,True,1.589499,standby,0.0,0.0,
+passive_failover,166,5f0d071cdf754403b396a058c5b0cd2c,True,1.575605,standby,0.0,0.0,
+passive_failover,167,5c91fc0037504d3da6c3a17b68e6fdcf,True,1.547968,standby,0.0,0.0,
+passive_failover,168,cdf5275134e244ee90796aadc530a5ea,True,1.546096,standby,0.0,0.0,
+passive_failover,169,8fd62a312cc84529bdfb8708d9327203,True,1.579085,standby,0.0,0.0,
+passive_failover,170,6286a670f0d046b18fdcfba82b4cc6b8,True,1.65638,standby,0.0,0.0,
+passive_failover,171,c700101e585d4cf18266d99342e90d8b,True,1.653673,standby,0.0,0.0,
+passive_failover,172,9fd0211e11c7451dbd620d5942c85c4c,True,1.651731,standby,0.0,0.0,
+passive_failover,173,36fdc0a25a7b4515bb207deb89375c9f,True,1.933604,standby,0.0,0.0,
+passive_failover,174,5eca25c844704c9b91f3e226d3e50193,True,1.853113,standby,0.0,0.0,
+passive_failover,175,fe14df8eaa73460b963f704d62630170,True,1.962042,standby,0.0,0.0,
+passive_failover,176,0e2d51f4c2d344c1b2ca7ffe10134d53,True,2.336253,standby,0.0,0.0,
+passive_failover,177,627c2afa40d24b589363ef11f6e6dac7,True,1.962234,standby,0.0,0.0,
+passive_failover,178,7978edcff499440fa86fe8d591ea09fa,True,1.674632,standby,0.0,0.0,
+passive_failover,179,e90f29d0c93a41cf8d49f6d0549d72ed,True,6.878409,standby,0.0,0.0,
+passive_failover,180,0220a65df23d44e4b3105a5d55948903,True,1.665352,standby,0.0,0.0,
+passive_failover,181,96f2955576a94671bb9776752eccba21,True,1.476889,standby,0.0,0.0,
+passive_failover,182,7d13f150d3d543a393fd3387d2a84ca9,True,1.508049,standby,0.0,0.0,
+passive_failover,183,d44281c19431465cb6d19e5e51c26be0,True,1.492602,standby,0.0,0.0,
+passive_failover,184,946562e8d6c04d9fa22730a9f8120a0d,True,1.430812,standby,0.0,0.0,
+passive_failover,185,9445142666d043f5ba8584b59bbf69f0,True,1.424835,standby,0.0,0.0,
+passive_failover,186,7bee8c3e79b042d5ac603143a0a1c00c,True,1.41985,standby,0.0,0.0,
+passive_failover,187,b68f027cee4d48b390c19157542b1372,True,1.396927,standby,0.0,0.0,
+passive_failover,188,043a6eb3faeb46b3a14dd7dcab99f2b4,True,1.435459,standby,0.0,0.0,
+passive_failover,189,b074d06d10e44df19fa0888ff3f17507,True,1.445843,standby,0.0,0.0,
+passive_failover,190,f52512ebf0e34b3eb0419e47a6b8bea2,True,1.414477,standby,0.0,0.0,
+passive_failover,191,77be8c1f772240dd845d22ad59c17c58,True,1.430808,standby,0.0,0.0,
+passive_failover,192,be67ebe992af4719bded4904c45e52e3,True,1.419231,standby,0.0,0.0,
+passive_failover,193,9c04d39a5c03416c9b62f2fe3353eefd,True,1.421768,standby,0.0,0.0,
+passive_failover,194,f80597773d5d40a08b7f38e103f8822c,True,1.418044,standby,0.0,0.0,
+passive_failover,195,2b7af7b2097f4bada51ed5217f12b969,True,1.421905,standby,0.0,0.0,
+passive_failover,196,6798fe73b63746fd9339cd572d487185,True,1.416131,standby,0.0,0.0,
+passive_failover,197,38d838f5912b4e91929eb7456931100e,True,1.52754,standby,0.0,0.0,
+passive_failover,198,35718dd387f9406b9099862b8f466990,True,1.508714,standby,0.0,0.0,
+passive_failover,199,81b59464885c4b8e817c863b8a77e815,True,1.439717,standby,0.0,0.0,
+passive_failover,200,2b4556e39e93452386089ee4522819db,True,1.446163,standby,0.0,0.0,

@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "100_percent_clones_rejected": true,
+    "reaction_under_60_seconds": true,
+    "sample_contains_1000_attempts": true,
+    "zero_fraudulent_discounts": true
+  },
+  "sample_size_per_variant": 1000,
+  "scenario": "S1",
+  "with_tactic": {
+    "attack_block_rate_pct": 100.0,
+    "attacks_blocked": 1000,
+    "attempts": 1000,
+    "elapsed_s": 0.9114961999994193,
+    "fraudulent_discounts": 0,
+    "maximum_reaction_ms": 6.920942,
+    "p95_latency_ms": 0.936106
+  },
+  "without_tactic": {
+    "attack_block_rate_pct": 0.0,
+    "attacks_blocked": 0,
+    "attempts": 1000,
+    "elapsed_s": 0.46940411899959145,
+    "fraudulent_discounts": 1000,
+    "maximum_reaction_ms": 6.956623,
+    "p95_latency_ms": 0.598334
+  }
+}
